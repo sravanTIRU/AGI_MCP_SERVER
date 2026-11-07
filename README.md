@@ -80,6 +80,9 @@ hello-mcp/
 ├── server.py
 ├── requirements.txt
 ├── .gitignore
+│
+├── images/
+│   └── screenshots
 └── README.md
 ```
 
