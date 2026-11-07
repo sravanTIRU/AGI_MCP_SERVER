@@ -53,7 +53,7 @@ def calculate_grade(marks: float, total: float = 100) -> str:
     elif percentage >= 40:
         grade = "D"
     else:
-        grade = "F"
+        grade = ("F",)
 
     return f"Percentage: {percentage:.2f}% | Grade: {grade}"
 
